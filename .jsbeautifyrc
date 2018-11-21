@@ -1,0 +1,6 @@
+{
+    "brace_style": "none,preserve-inline",
+    "keep_function_indentation": true,
+    "keep_array_indentation": true,
+    "indent_size": 2
+}
